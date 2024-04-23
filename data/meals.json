@@ -1,0 +1,86 @@
+[
+    {
+      "id": "meal1",
+      "title": "Spaghetti Carbonara",
+      "price": "12.99",
+      "description": "Classic Italian pasta dish made with eggs, cheese, pancetta, and black pepper.",
+      "image": "spaghetti_carbonara.jpg"
+    },
+    {
+      "id": "meal2",
+      "title": "Chicken Tikka Masala",
+      "price": "14.50",
+      "description": "Tender chicken pieces marinated in spices, served in a creamy tomato sauce.",
+      "image": "chicken_tikka_masala.jpg"
+    },
+    {
+      "id": "meal3",
+      "title": "Caesar Salad",
+      "price": "9.99",
+      "description": "Crisp romaine lettuce tossed in Caesar dressing with croutons and Parmesan cheese.",
+      "image": "caesar_salad.jpg"
+    },
+    {
+      "id": "meal4",
+      "title": "Margherita Pizza",
+      "price": "10.99",
+      "description": "Classic pizza topped with tomato sauce, mozzarella cheese, and fresh basil leaves.",
+      "image": "margherita_pizza.jpg"
+    },
+    {
+      "id": "meal5",
+      "title": "Sushi Platter",
+      "price": "18.99",
+      "description": "Assortment of fresh sushi rolls including tuna, salmon, and California rolls.",
+      "image": "sushi_platter.jpg"
+    },
+    {
+      "id": "meal6",
+      "title": "Beef Burger",
+      "price": "11.99",
+      "description": "Juicy beef patty topped with lettuce, tomato, onions, and melted cheese.",
+      "image": "beef_burger.jpg"
+    },
+    {
+      "id": "meal7",
+      "title": "Pad Thai",
+      "price": "13.50",
+      "description": "Stir-fried rice noodles with shrimp, tofu, bean sprouts, and peanuts in a tangy sauce.",
+      "image": "pad_thai.jpg"
+    },
+    {
+      "id": "meal8",
+      "title": "Grilled Salmon",
+      "price": "16.99",
+      "description": "Fresh Atlantic salmon fillet seasoned and grilled to perfection.",
+      "image": "grilled_salmon.jpg"
+    },
+    {
+      "id": "meal9",
+      "title": "Mushroom Risotto",
+      "price": "11.99",
+      "description": "Creamy Italian rice dish cooked with mushrooms, onions, and Parmesan cheese.",
+      "image": "mushroom_risotto.jpg"
+    },
+    {
+      "id": "meal10",
+      "title": "Tandoori Chicken",
+      "price": "15.99",
+      "description": "Spicy marinated chicken cooked in a traditional clay oven, served with naan bread.",
+      "image": "tandoori_chicken.jpg"
+    },
+    {
+      "id": "meal11",
+      "title": "Caprese Salad",
+      "price": "8.99",
+      "description": "Fresh salad made with tomatoes, mozzarella cheese, basil leaves, and balsamic glaze.",
+      "image": "caprese_salad.jpg"
+    },
+    {
+      "id": "meal12",
+      "title": "Beef Stir-Fry",
+      "price": "12.99",
+      "description": "Tender strips of beef stir-fried with mixed vegetables in a savory sauce.",
+      "image": "beef_stir_fry.jpg"
+    }
+  ]
